@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tognonm. Currently working as a Digital Analyst at Wuerth Italy.
-- 👀 I’m mainly interested in GA4, Search Console, gads and Digital Marketing Data Universe. I also like working with Business Data in an omnichannel environment.
-- 🌱 I’m currently learning how to approach the world of BigQuery and learning Python, as I've always used R Software and language.
+- 👀 I’m mainly interested in GA4, BigQuery, Dataform, Python etc.etc. Digital Marketing Data Universe.
+- 🌱 I’m currently learning how to exploit GCP environment for MarTech purposes, and I think I want to become an Analytics Engineer.
 - 📫 To reach me please contact me at marcotognon.tv@gmail.com or on Linkedin
 
 <!---
