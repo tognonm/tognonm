@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tognonm. Currently working as a Digital Analyst at Wuerth Italy.
+- 👋 Hi, I’m @tognonm. Currently working as a Digital Analyst at Würth Italy.
 - 👀 I’m mainly interested in GA4, BigQuery, Dataform, Python etc.etc. Let's say anything about data in the Digital Marketing landscape.
 - 🌱 I’m currently learning how to exploit GCP environment for MarTech purposes, in the direction of becoming an Analytics Engineer.
 - 🎣 I like Pokemon fishermen because they always have 6 magikarps. 
