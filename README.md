@@ -8,3 +8,9 @@
 tognonm/tognonm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+<p align="center">
+  <img src="profile/stats.svg" width="470" alt="">
+  <br>
+  <img src="profile/languages.svg" width="470" alt="">
+</p>
