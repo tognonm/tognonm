@@ -15,7 +15,7 @@
        nobody. Delete this comment if you would rather not be counted; the card is
        identical without it, and I will only be a little sad about it :( -->
   <title id="titleId">tognonm&#39;s languages</title>
-  <desc id="descId">Jupyter Notebook: 61.2%, SQL: 21.4%, Python: 8.1%, YAML: 4.9%, Markdown: 4.0%, Other: 0.4%. calculated analyzing all 74 pull requests</desc>
+  <desc id="descId">Jupyter Notebook: 61.2%, SQL: 21.4%, Python: 8.1%, YAML: 4.9%, Markdown: 4.0%, Other: 0.4%. calculated analyzing all 76 pull requests</desc>
   <style>
     :root {
       --bg: #ffffff;
@@ -94,6 +94,6 @@
         <text class="share" x="199.5" y="11" text-anchor="end">0.4%</text>
       </g>
     </g>
-    <text class="note" x="0" y="79">calculated analyzing all 74 pull requests</text>
+    <text class="note" x="0" y="79">calculated analyzing all 76 pull requests</text>
   </g>
 </svg>
