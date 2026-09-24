@@ -15,7 +15,7 @@
        nobody. Delete this comment if you would rather not be counted; the card is
        identical without it, and I will only be a little sad about it :( -->
   <title id="titleId">tognonm&#39;s languages</title>
-  <desc id="descId">Jupyter Notebook: 56.4%, SQL: 21.7%, Python: 10.3%, YAML: 6.8%, Markdown: 4.5%, Other: 0.3%. calculated analyzing all 92 pull requests</desc>
+  <desc id="descId">Jupyter Notebook: 56.2%, SQL: 21.9%, Python: 10.3%, YAML: 6.8%, Markdown: 4.5%, Other: 0.3%. calculated analyzing all 92 pull requests</desc>
   <style>
     :root {
       --bg: #ffffff;
@@ -66,12 +66,12 @@
       <g class="entry" style="animation-delay: 120ms" transform="translate(0.0, 0)">
         <circle cx="4" cy="7.5" r="4" fill="var(--lang-0)"/>
         <text class="name" x="16" y="11">Jupyter Notebook</text>
-        <text class="share" x="199.5" y="11" text-anchor="end">56.4%</text>
+        <text class="share" x="199.5" y="11" text-anchor="end">56.2%</text>
       </g>
       <g class="entry" style="animation-delay: 190ms" transform="translate(211.5, 0)">
         <circle cx="4" cy="7.5" r="4" fill="var(--lang-1)"/>
         <text class="name" x="16" y="11">SQL</text>
-        <text class="share" x="199.5" y="11" text-anchor="end">21.7%</text>
+        <text class="share" x="199.5" y="11" text-anchor="end">21.9%</text>
       </g>
       <g class="entry" style="animation-delay: 260ms" transform="translate(0.0, 21)">
         <circle cx="4" cy="7.5" r="4" fill="var(--lang-2)"/>
