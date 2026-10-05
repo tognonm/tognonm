@@ -15,7 +15,7 @@
        nobody. Delete this comment if you would rather not be counted; the card is
        identical without it, and I will only be a little sad about it :( -->
   <title id="titleId">tognonm&#39;s GitHub stats</title>
-  <desc id="descId">Total Commits: 176, Commits (2026): 122, Total PRs: 99, PR Merge Rate: 74.7%, PRs Reviewed: 75, Total Issues: 0, Total Stars Earned: 9. Contributions: 338</desc>
+  <desc id="descId">Total Commits: 177, Commits (2026): 123, Total PRs: 101, PR Merge Rate: 74.3%, PRs Reviewed: 76, Total Issues: 0, Total Stars Earned: 9. Contributions: 342</desc>
   <style>
     :root {
       --bg: #ffffff;
@@ -48,24 +48,24 @@
   <rect x="0.5" y="0.5" rx="6" width="452" height="356" stroke="var(--border)" fill="var(--bg)"/>
   <g transform="translate(22, 22)">
       <g class="stagger" style="animation-delay: 200ms" transform="translate(0, 0)">
-        <text class="figure" x="0" y="30">176</text>
+        <text class="figure" x="0" y="30">177</text>
         <text class="caption" x="0" y="47">TOTAL COMMITS</text>
       </g>
       <g class="stagger" style="animation-delay: 290ms" transform="translate(139, 0)">
-        <text class="figure" x="0" y="30">122</text>
+        <text class="figure" x="0" y="30">123</text>
         <text class="caption" x="0" y="47">COMMITS</text>
         <text class="qualifier" x="0" y="58">2026</text>
       </g>
       <g class="stagger" style="animation-delay: 380ms" transform="translate(278, 0)">
-        <text class="figure" x="0" y="30">99</text>
+        <text class="figure" x="0" y="30">101</text>
         <text class="caption" x="0" y="47">TOTAL PRS</text>
       </g>
       <g class="stagger" style="animation-delay: 470ms" transform="translate(0, 83)">
-        <text class="figure" x="0" y="30">74.7%</text>
+        <text class="figure" x="0" y="30">74.3%</text>
         <text class="caption" x="0" y="47">PR MERGE RATE</text>
       </g>
       <g class="stagger" style="animation-delay: 560ms" transform="translate(139, 83)">
-        <text class="figure" x="0" y="30">75</text>
+        <text class="figure" x="0" y="30">76</text>
         <text class="caption" x="0" y="47">PRS REVIEWED</text>
       </g>
       <g class="stagger" style="animation-delay: 650ms" transform="translate(278, 83)">
@@ -77,11 +77,11 @@
         <text class="caption" x="0" y="47">TOTAL STARS EARNED</text>
       </g>
       <g class="spark" transform="translate(0, 243)">
-        <path class="spark-area" d="M0.0 50.9 L10.8 52.0 L21.5 52.0 L32.3 47.5 L43.1 52.0 L53.8 52.0 L64.6 52.0 L75.3 52.0 L86.1 52.0 L96.9 50.9 L107.6 47.5 L118.4 52.0 L129.2 52.0 L139.9 52.0 L150.7 28.3 L161.4 52.0 L172.2 52.0 L183.0 52.0 L193.7 52.0 L204.5 52.0 L215.3 48.6 L226.0 52.0 L236.8 47.5 L247.6 52.0 L258.3 52.0 L269.1 45.2 L279.8 52.0 L290.6 32.8 L301.4 38.4 L312.1 41.8 L322.9 28.3 L333.7 33.9 L344.4 31.7 L355.2 0.0 L365.9 1.1 L376.7 24.9 L387.5 11.3 L398.2 0.0 L409.0 47.5 L409.0 52 L0 52 Z"/>
-        <path class="spark-line" d="M0.0 50.9 L10.8 52.0 L21.5 52.0 L32.3 47.5 L43.1 52.0 L53.8 52.0 L64.6 52.0 L75.3 52.0 L86.1 52.0 L96.9 50.9 L107.6 47.5 L118.4 52.0 L129.2 52.0 L139.9 52.0 L150.7 28.3 L161.4 52.0 L172.2 52.0 L183.0 52.0 L193.7 52.0 L204.5 52.0 L215.3 48.6 L226.0 52.0 L236.8 47.5 L247.6 52.0 L258.3 52.0 L269.1 45.2 L279.8 52.0 L290.6 32.8 L301.4 38.4 L312.1 41.8 L322.9 28.3 L333.7 33.9 L344.4 31.7 L355.2 0.0 L365.9 1.1 L376.7 24.9 L387.5 11.3 L398.2 0.0 L409.0 47.5"/>
+        <path class="spark-area" d="M0.0 50.9 L10.8 52.0 L21.5 52.0 L32.3 47.5 L43.1 52.0 L53.8 52.0 L64.6 52.0 L75.3 52.0 L86.1 52.0 L96.9 50.9 L107.6 47.5 L118.4 52.0 L129.2 52.0 L139.9 52.0 L150.7 28.3 L161.4 52.0 L172.2 52.0 L183.0 52.0 L193.7 52.0 L204.5 52.0 L215.3 48.6 L226.0 52.0 L236.8 47.5 L247.6 52.0 L258.3 52.0 L269.1 45.2 L279.8 52.0 L290.6 32.8 L301.4 38.4 L312.1 41.8 L322.9 28.3 L333.7 33.9 L344.4 31.7 L355.2 0.0 L365.9 1.1 L376.7 24.9 L387.5 11.3 L398.2 0.0 L409.0 43.0 L409.0 52 L0 52 Z"/>
+        <path class="spark-line" d="M0.0 50.9 L10.8 52.0 L21.5 52.0 L32.3 47.5 L43.1 52.0 L53.8 52.0 L64.6 52.0 L75.3 52.0 L86.1 52.0 L96.9 50.9 L107.6 47.5 L118.4 52.0 L129.2 52.0 L139.9 52.0 L150.7 28.3 L161.4 52.0 L172.2 52.0 L183.0 52.0 L193.7 52.0 L204.5 52.0 L215.3 48.6 L226.0 52.0 L236.8 47.5 L247.6 52.0 L258.3 52.0 L269.1 45.2 L279.8 52.0 L290.6 32.8 L301.4 38.4 L312.1 41.8 L322.9 28.3 L333.7 33.9 L344.4 31.7 L355.2 0.0 L365.9 1.1 L376.7 24.9 L387.5 11.3 L398.2 0.0 L409.0 43.0"/>
         <g transform="translate(0, 68)">
           <text class="caption" x="0" y="0">2023</text>
-          <text class="caption" x="204.5" y="0" text-anchor="middle">338 CONTRIBUTIONS</text>
+          <text class="caption" x="204.5" y="0" text-anchor="middle">342 CONTRIBUTIONS</text>
           <text class="caption" x="409" y="0" text-anchor="end">2026</text>
         </g>
       </g>
