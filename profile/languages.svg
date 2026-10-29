@@ -15,7 +15,7 @@
        nobody. Delete this comment if you would rather not be counted; the card is
        identical without it, and I will only be a little sad about it :( -->
   <title id="titleId">tognonm&#39;s languages</title>
-  <desc id="descId">Jupyter Notebook: 47.6%, SQL: 20.8%, Python: 12.3%, JSON: 6.7%, Markdown: 6.7%, YAML: 5.4%, Other: 0.5%. calculated analyzing all 114 pull requests</desc>
+  <desc id="descId">Jupyter Notebook: 47.6%, SQL: 20.8%, Python: 12.3%, Markdown: 6.7%, JSON: 6.7%, YAML: 5.4%, Other: 0.5%. calculated analyzing all 114 pull requests</desc>
   <style>
     :root {
       --bg: #ffffff;
@@ -39,8 +39,8 @@
       --lang-0: #da5b0b;
       --lang-1: #d57f00;
       --lang-2: #3572a5;
-      --lang-3: #292929;
-      --lang-4: #083fa1;
+      --lang-3: #083fa1;
+      --lang-4: #292929;
       --lang-5: #cb171e;
       --lang-6: #8b949e;
     }
@@ -49,8 +49,8 @@
       --lang-0: #da5b0b;
       --lang-1: #e38c00;
       --lang-2: #3572a5;
-      --lang-3: #616161;
-      --lang-4: #285ec2;
+      --lang-3: #285ec2;
+      --lang-4: #616161;
       --lang-5: #cb171e;
       --lang-6: #8b949e;
       }
@@ -82,12 +82,12 @@
       </g>
       <g class="entry" style="animation-delay: 330ms" transform="translate(211.5, 21)">
         <circle cx="4" cy="7.5" r="4" fill="var(--lang-3)"/>
-        <text class="name" x="16" y="11">JSON</text>
+        <text class="name" x="16" y="11">Markdown</text>
         <text class="share" x="199.5" y="11" text-anchor="end">6.7%</text>
       </g>
       <g class="entry" style="animation-delay: 400ms" transform="translate(0.0, 42)">
         <circle cx="4" cy="7.5" r="4" fill="var(--lang-4)"/>
-        <text class="name" x="16" y="11">Markdown</text>
+        <text class="name" x="16" y="11">JSON</text>
         <text class="share" x="199.5" y="11" text-anchor="end">6.7%</text>
       </g>
       <g class="entry" style="animation-delay: 470ms" transform="translate(211.5, 42)">
