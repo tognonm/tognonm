@@ -15,7 +15,7 @@
        nobody. Delete this comment if you would rather not be counted; the card is
        identical without it, and I will only be a little sad about it :( -->
   <title id="titleId">tognonm&#39;s languages</title>
-  <desc id="descId">Jupyter Notebook: 42.8%, SQL: 25.0%, Python: 10.4%, YAML: 8.8%, Markdown: 6.9%, JSON: 5.7%, Other: 0.5%. calculated analyzing all 127 pull requests</desc>
+  <desc id="descId">Jupyter Notebook: 42.9%, SQL: 24.9%, Python: 10.5%, YAML: 8.6%, Markdown: 6.9%, JSON: 5.7%, Other: 0.5%. calculated analyzing all 127 pull requests</desc>
   <style>
     :root {
       --bg: #ffffff;
@@ -68,22 +68,22 @@
       <g class="entry" style="animation-delay: 120ms" transform="translate(0.0, 0)">
         <circle cx="4" cy="7.5" r="4" fill="var(--lang-0)"/>
         <text class="name" x="16" y="11">Jupyter Notebook</text>
-        <text class="share" x="199.5" y="11" text-anchor="end">42.8%</text>
+        <text class="share" x="199.5" y="11" text-anchor="end">42.9%</text>
       </g>
       <g class="entry" style="animation-delay: 190ms" transform="translate(211.5, 0)">
         <circle cx="4" cy="7.5" r="4" fill="var(--lang-1)"/>
         <text class="name" x="16" y="11">SQL</text>
-        <text class="share" x="199.5" y="11" text-anchor="end">25.0%</text>
+        <text class="share" x="199.5" y="11" text-anchor="end">24.9%</text>
       </g>
       <g class="entry" style="animation-delay: 260ms" transform="translate(0.0, 21)">
         <circle cx="4" cy="7.5" r="4" fill="var(--lang-2)"/>
         <text class="name" x="16" y="11">Python</text>
-        <text class="share" x="199.5" y="11" text-anchor="end">10.4%</text>
+        <text class="share" x="199.5" y="11" text-anchor="end">10.5%</text>
       </g>
       <g class="entry" style="animation-delay: 330ms" transform="translate(211.5, 21)">
         <circle cx="4" cy="7.5" r="4" fill="var(--lang-3)"/>
         <text class="name" x="16" y="11">YAML</text>
-        <text class="share" x="199.5" y="11" text-anchor="end">8.8%</text>
+        <text class="share" x="199.5" y="11" text-anchor="end">8.6%</text>
       </g>
       <g class="entry" style="animation-delay: 400ms" transform="translate(0.0, 42)">
         <circle cx="4" cy="7.5" r="4" fill="var(--lang-4)"/>
